@@ -1,0 +1,11 @@
+div#holder{
+  padding-top: 30vh;
+  text-align: center;
+  font-size: 45pt;
+}
+.disconnected{
+  color: red;
+}
+.connected{
+  color: green;
+}
